@@ -1,0 +1,48 @@
+﻿# Header
+menu:
+  首页: /
+  项目: /projects/
+  产品: /products/
+  商城: https://monettrade.taobao.com
+  博客: /archives/
+  相册: /about/
+  联系我们: /contact/
+
+
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Integrations
+disqus_shortname: hexothemecorporate
+google_analytics: UA-70830587-2
+swiftype_install_key: mqSgSxnMMDR4bbs2NXuy
+
+# Social
+social:
+  cart-plus: https://monettrade.taobao.com
+  github: https://github.com/ALEXLCC
+  twitter: https://twitter.com/ALEXLCC
+  facebook: https://www.facebook.com/ALEXLCC
+  rss: atom.xml
+  linkedin: https://linkedin.com/in/ALEXLCC
+  stackoverflow: http://stackoverflow.com/ALEXLCC
+
+# Miscellaneous
+color_scheme: red   # options: blue, gray, green, orange, red, turquoise
+favicon: /favicon.ico # path from root of hexo site
+twitter_widget_id: "678830341331820544" # as a string, from https://twitter.com/settings/widgets
+twitter_username: computerlab_ # twitter username without the app
+default_author: Anonymous
+
+about: 浮克信息技术有限公司是一家专业提供信息技术服务的公司，包括工业控制类软件，各自网站设计，手机app开发等. <br><br> 浮克信息成立于2014年，专业从事设计，软件开发，网站设计，电子商务，工业控制等服务.
+phone: 081-15601923151
+email: fuke.infor@gmail.com
+address_1: 中谊路
+address_2: 969弄
+address_3: 上海市闵行区
+skype: monettrade
+lat: 31.1554702830
+long: 121.3495228423
